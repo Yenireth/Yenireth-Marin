@@ -1,0 +1,41 @@
+body {
+    background-color: #ff5252;
+}
+#seccprin{
+    background-color: #2c2c54;
+    width: 960px;
+    margin: 0 auto;
+}
+
+#secctitle{
+    background-color: #ffffff;
+    padding: 5%;
+    text-align: center;
+    
+}
+.img-redonda{
+    border-radius: 50%;
+}
+.padre{
+display:table;
+}
+
+.hijo{
+    display: table-cell;
+}
+.parrafo{
+    padding:20px;
+    text-align:center;
+}
+.title{
+    text-align:center;
+    font-style: italic;
+    color: #ffffff;
+}
+#text-footer{
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+
+}
